@@ -1,4 +1,4 @@
-on: push
+on: 555
 name: 🚀 Gerando apk...
 jobs:
   build:
